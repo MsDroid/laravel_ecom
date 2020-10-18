@@ -1,4 +1,4 @@
-<div class="card">
+<div class="card" style="clear:both">
   <div class="card-footer">
     footer
   </div>

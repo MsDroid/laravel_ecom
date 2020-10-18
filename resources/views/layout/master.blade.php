@@ -22,8 +22,40 @@
 .custom-login{
     height: 500px;
     padding-top: 100px;
-
 }
+.carousel-inner img {
+    width: 100%;
+    height: 100%;
+  }
+  img.slider-img{
+      height: 400px !important;
+      
+  }
+  .custom-slider{
+      height : 500px;
+  }
+
+  .carousel-caption{
+    color: brown;
+    background-color: #00adff54;
+  }
+  img.trending-img{
+      height: 100px;
+  }
+  .trending-item{
+      float: left;
+      width: 20%;
+      padding-left: 20px;
+  }
+  .trending-wrapper{
+      margin: 20px;
+  }
+  .img-detail{
+      height: 400px;
+  }
+  .search{
+      width: 500px!important;
+  }
 </style>
 <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>  
 <script>
