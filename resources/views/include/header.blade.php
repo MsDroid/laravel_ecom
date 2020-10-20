@@ -29,7 +29,7 @@ if (Session()->has('user')) {
     </form>
     <ul class="navbar-nav navbar-right ml-auto">
       <li class="nav-item cart">
-        <a class="nav-link" href="#">Cart({{$total}})</a>
+        <a class="nav-link" href="cart_detail">Cart({{$total}})</a>
       </li>
       @if(Session()->has('user'))
       <li class="dropdown">
